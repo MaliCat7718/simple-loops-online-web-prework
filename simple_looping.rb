@@ -8,7 +8,7 @@ end
 
 def times_iterator(number_of_times)
   7.times do
-  puts phrase = "Welcome to Flatiron School's Web Development Course!"
+  puts "Welcome to Flatiron School's Web Development Course!"
 end
 
 def while_iterator(number_of_times)
